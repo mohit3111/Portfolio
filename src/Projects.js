@@ -118,7 +118,7 @@ const Projects = () => {
                   alt="#"
                   style={{ width: "17rem", marginTop: "15px", borderRadius:"6px" }}
                 ></img></h3>
-               <p class="title" style={{textShadow:"1px 2px 2px black"}} >E-commerce website</p>
+               <p class="title" style={{textShadow:"1px 2px 2px black"}} >Website design in figma</p>
            </div>
            <div class="back">
                <p class="description">
