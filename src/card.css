@@ -1,0 +1,83 @@
+
+.projects{
+    margin-top: 50px;
+    margin-left:10vw;
+    display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   
+}
+
+.work h2{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    font-size: 2.5vw;
+    font-family: 'Roboto', sans-serif;
+    color: #ccd7f7;
+}
+
+.cards{
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    gap: 50px;
+    
+}
+
+
+.popup{
+  margin-top: 5px;
+}
+.rightpro{
+    z-index: 2;
+}
+.rightpro img {
+ width: 25vw;
+ margin-left: 20%;
+ margin-top: 10%;
+}
+
+
+
+/* //contact */
+.contact{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contact h2{
+ font-size: 50px;
+ font-family: 'Roboto', sans-serif;
+    color: #ccd7f7;
+}
+.contact p{
+    margin-top: 40px;
+    font-size: 25px;
+    width: 60vw;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #c1c6db;
+    font-family: monospace;
+}
+.contact div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cc{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: #ccd7f7;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
