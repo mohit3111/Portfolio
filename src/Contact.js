@@ -18,11 +18,11 @@ const Contact = () => {
       I'm always trying to giving my best. looking forward for your response.
 
       </p>
-      <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank"> <button className='button hire'  onClick={gotoContact}  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500"  >Say Hello</button></a>
+      <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank" rel="noreferrer"> <button className='button hire'  onClick={gotoContact}  data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1500"  >Say Hello</button></a>
       </div>
       
     </section>
-    <div className='cc'><img src="https://img.icons8.com/material-rounded/20/64feda/creative-commons.png" /><p> Designed & Built by Mohit Kansal</p></div>
+    <div className='cc'><img src="https://img.icons8.com/material-rounded/20/64feda/creative-commons.png" alt='#'/><p> Designed & Built by Mohit Kansal</p></div>
     </>
   )
 }

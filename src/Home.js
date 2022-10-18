@@ -20,22 +20,22 @@ const Home2 = () => {
               user experiences.
             </p>
 
-            <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank"> <button className="button hire" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1200">
+            <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank" rel="noreferrer"> <button className="button hire" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="1200">
                  Hire me!   </button></a>
 
 
           </div>
         </div>
         <div className="righthome" data-aos="slide-right" data-aos-duration="1000">
-          <img src="imgs/hlo.png"></img>
+          <img src="imgs/hlo.png" alt='#'></img>
         </div>
         <div className="icons">
           <div className="icon" data-aos="slide-up" data-aos-duration="1000" data-aos-delay="1500">
 
-         <a  href='https://www.linkedin.com/in/mohit-kansal-29b19b211/' target="_blank" > <img src="https://img.icons8.com/ios/30/c8d4f5/linkedin-2--v1.png" alt='#'/></a>
-         <a  href=' https://github.com/mohit3111' target="_blank" > <img src="https://img.icons8.com/ios/30/c8d4f5/git.png" alt='#'/></a>
-         <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank" > <img src="https://img.icons8.com/ios/30/c8d4f5/gmail--v1.png" alt='#'/></a>
-         <a  href='https://www.instagram.com/mohit_kansal_01/' target="_blank"> <img src="https://img.icons8.com/ios/30/c8d4f5/instagram-new--v1.png" alt='#'/></a>
+         <a  href='https://www.linkedin.com/in/mohit-kansal-29b19b211/' target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/ios/30/c8d4f5/linkedin-2--v1.png" alt='#'/></a>
+         <a  href=' https://github.com/mohit3111' target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/30/c8d4f5/git.png" alt='#'/></a>
+         <a href='https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSKhcBwnqSVgkfGjwxFHDzNVJZgfFVDPQbQbWWvVTHjfgvZxLWbhwhDgqJnTpnxTkqGTvGCL'  target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios/30/c8d4f5/gmail--v1.png" alt='#'/></a>
+         <a  href='https://www.instagram.com/mohit_kansal_01/' target="_blank" rel="noreferrer" > <img src="https://img.icons8.com/ios/30/c8d4f5/instagram-new--v1.png" alt='#'/></a>
          
          
           <div className="iconline"></div>
